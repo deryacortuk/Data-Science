@@ -6,9 +6,10 @@
 
 ## Missing Data Randomness Test
     # Visual techniques
-    # Independence 2 Sample T Test
+    # T Test (Independence 2 sample)
     # Correlation Test
-    # Little's MCAR Test
+    # Little's MCAR Test ( Missing Completely At Random) 
+            # EM ( Expectation-Maximization)
 
 ## Missing Data Solutions:
 
@@ -24,5 +25,5 @@
  
     # Predictive methods
      # Machine Learning
-     # EM
+     # EM  (Expectation-Maximization)
      # Multiple assignments methods
