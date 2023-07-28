@@ -10,10 +10,15 @@ z= (x−μ) / σ
 ​ 
 
 Where:
+
 x : Data point to be transformed
+
 μ : Mean of the dataset
+
 σ : Standard deviation of the dataset
+
 z : Z-score (the transformed value)
+
 
 The Z-score indicates how many standard deviations a data point is away from the mean. A positive Z-score means the data point is above the mean, 
 while a negative Z-score means it is below the mean. A Z-score of 0 indicates that the data point is equal to the mean.
