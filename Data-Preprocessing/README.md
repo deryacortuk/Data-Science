@@ -1,7 +1,8 @@
 #  z-scoring Transformation
-     The Z-scoring transformation (also known as z-score normalization or standardization) is a process that transforms a dataset by centering 
-     its mean at zero and scaling its standard deviation to one. This transformation brings the values of the dataset into a standardized format
-     making it more suitable for analysis and comparisons.
+
+The Z-scoring transformation (also known as z-score normalization or standardization) is a process that transforms a dataset by centering 
+its mean at zero and scaling its standard deviation to one. This transformation brings the values of the dataset into a standardized format
+making it more suitable for analysis and comparisons.
 
 Z-scoring is calculated using the following formula:
 
